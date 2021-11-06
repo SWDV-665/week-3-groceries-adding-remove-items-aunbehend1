@@ -11,23 +11,23 @@ import { AlertController } from '@ionic/angular';
 
 export class Tab1Page {
 
-  title = "Grocery";
+  title = "My Grocery List";
 
   items = [
     {
-      name: "Milk",
+      name: "Mountain Dew ",
       quantity: 2    
     },
     {
-      name: "Bread",
+      name: "Wheat Flour",
       quantity: 1    
     },
     {
-      name: "Banana",
+      name: "Pears",
       quantity: 3    
     },
     {
-      name: "Sugar",
+      name: "Egg Land eggs",
       quantity: 1    
     },
   ];
